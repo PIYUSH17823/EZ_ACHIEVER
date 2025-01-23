@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "765072734848",
+    "project_id": "dsrproject-5c330",
+    "storage_bucket": "dsrproject-5c330.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765072734848:android:6b49e72443fe6c290ac465",
+        "android_client_info": {
+          "package_name": "com.example.dsr_app_jyotirgayama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqI-YyDeFLRMjkATzO_WkTdgQVaZuT3i8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765072734848:android:fc87489ddac96b160ac465",
+        "android_client_info": {
+          "package_name": "com.example.newsapp_api"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqI-YyDeFLRMjkATzO_WkTdgQVaZuT3i8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

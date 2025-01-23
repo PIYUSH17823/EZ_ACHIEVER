@@ -64,7 +64,8 @@ class _FirstpageState extends State<Firstpage> {
 
   Future<void> getDeviceData() async {
     Uri url = Uri.parse(
-        "https://newsapi.org/v2/everything?q=tesla&from=2024-12-16&sortBy=publishedAt&apiKey=b793e83540df4c8b80c7a284f239e4fd");
+        
+"https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=b793e83540df4c8b80c7a284f239e4fd");
 
     http.Response response = await http.get(url);
 
